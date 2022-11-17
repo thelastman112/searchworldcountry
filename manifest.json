@@ -1,0 +1,15 @@
+{
+    "short_name": "Pwa",
+    "name": "madebyme",
+    "description": "This is an offline and installable web application that use worker to cache data.",
+    "display": "standalone",
+    "icons": [
+      {
+        "src": "image/icon-144.png",
+        "sizes": "144x144",
+        "type": "image/png"
+      }
+    ],
+    "start_url": ".",
+    "theme_color": "#FFFFFF"
+  }
